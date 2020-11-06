@@ -1,4 +1,3 @@
 # Sentiment Analysis on Movie Review
-## Team:
-Lamiae HANA
-![github-small](https://content.fortune.com/wp-content/uploads/2019/10/GettyImages-1158402857.jpg?resize=750,500)
+## Team: Lamiae HANA
+![feedback](https://user-images.githubusercontent.com/36892795/98424010-b2148200-2090-11eb-9bde-a88f1e253cea.jpg)
