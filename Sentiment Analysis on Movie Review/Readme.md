@@ -9,7 +9,8 @@ Sentiment Analysis is a major subject in machine learning which aims to extract 
 We were eager to try out our own hands with Sentiment Analysis On Movie Review using machine learning.
  
 ## Project Implementation 
-The purpose of this project was for the model to be able to predict ************. We have implemented the project with Python in Jupyter notebook.
+The purpose of this project was for the model to be able to predict. We have implemented the project with Python in Jupyter notebook.The main aim of this project is to identify the underlying sentiment of a movie review on the basis of its textual information. In this project, we try to classify whether a person liked the movie or not based on the review they give for the movie. This is particularly useful in cases when the creator of a movie wants to measure its overall performance using reviews that critics and viewers are providing for the movie. The outcome of this project can also be used to create a recommender by providing recommendation of movies to viewers on the basis of their previous reviews. Another application of this project would be to find a group of viewers with similar movie tastes (likes or dislikes).
+As a part of this project, we aim to study several feature extraction techniques used in text mining e.g. keyword spotting, lexical affinity and statistical methods, and understand their relevance to our problem. In addition to feature extraction, we also look into different classification techniques and explore how well they perform for different kinds of feature representations. We finally draw a conclusion regarding which combination of feature representations and classification techniques are most accurate for the current predictive task.
 
 ### Dataset
 We used dataset from Kaggle : - [IMDb movies extensive dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset)
