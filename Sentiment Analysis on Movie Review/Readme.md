@@ -16,13 +16,8 @@ As a part of this project, we aim to study several feature extraction techniques
 We used dataset from Kaggle : - [IMDb movies extensive dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset)
 
 ### Technologies 
-Kaggle, Jupyter Notebook,*******, GitHub
+Kaggle, Jupyter Notebook, GitHub
 
-#### Model Architecture
-********
+#### Model
+Logistic Regression & Multinomial Naive Bayes
 
-#### Model Training
-*******
-
-#### Model Metrics
-*******
